@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+server.env
+url.txt
+*.pem
+*.key

@@ -1,0 +1,13 @@
+[Unit]
+Description=Core Bridje vpn public subscription hostname
+After=network-online.target happ-sub.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/opt/core-bridje/tunnel.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

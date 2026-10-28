@@ -1,0 +1,9 @@
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+adservice.google.com
+adservice.google.ru
+ads.youtube.com
+app-analytics-services.com
+firebaselogging-pa.googleapis.com
+keyword:pagead
